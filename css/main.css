@@ -64,6 +64,7 @@ body {
     background-color: #222;
     min-height: 60px;
     padding: 10px;
+    border-radius: 5px;
 }
 
 /* Style the topnav links */
@@ -109,6 +110,8 @@ body {
     background-color: white;
     padding: 20px;
     margin-top: 20px;
+    border-radius: 5px;
+    box-shadow: 5px 5px 10px rgb(240, 240, 240);
 }
 
 /* Clear floats after the columns */
@@ -122,8 +125,9 @@ body {
 .footer {
     padding: 20px;
     text-align: center;
-    background: #ddd;
+    background: #ccc;
     margin-top: 20px;
+    border-radius: 5px;
 }
 
 /* Responsive layout - when the screen is less than 800px wide, make the two columns stack on top of each other instead of next to each other */
